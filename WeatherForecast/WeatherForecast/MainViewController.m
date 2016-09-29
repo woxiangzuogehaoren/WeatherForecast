@@ -259,7 +259,7 @@
 }
 //调用获取城市天气信息的方法
 -(void)getCityWeatherIfo{
-    
+    //设置为http可以访问
     NSString *httpUrl = @"http://apis.baidu.com/apistore/weatherservice/weather";
     NSString *httpArg = [NSString stringWithFormat:@"citypinyin=%@",self.cityName];
     NSLog(@"%@",self.cityName);
