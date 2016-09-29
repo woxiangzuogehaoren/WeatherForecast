@@ -1,0 +1,12 @@
+PODS:
+  - Masonry (1.0.1)
+
+DEPENDENCIES:
+  - Masonry (~> 1.0.1)
+
+SPEC CHECKSUMS:
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+
+PODFILE CHECKSUM: 8ae150338cad8fd7b4b5b2bfd510f73d22f309c1
+
+COCOAPODS: 1.0.1
